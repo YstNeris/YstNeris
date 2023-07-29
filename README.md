@@ -41,6 +41,5 @@
 ## Contact with me
 
 [![Telegram](https://img.shields.io/badge/telegram-17222b?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ystneris)
-[![VKontakte](https://img.shields.io/badge/vkontakte-15202d?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/ystneris)
 [![Discord](https://img.shields.io/badge/discord-191f2c?style=for-the-badge&logo=discord)](https://discordapp.com/users/199447143499431936)
 [![Gmail](https://img.shields.io/badge/gmail-211d23?style=for-the-badge&logo=gmail)](mailto:ystneris@gmail.com)
