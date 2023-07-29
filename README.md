@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi, I'm YstNeris! 👋
 
-<!--
-**YstNeris/YstNeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages & platforms:
 
-Here are some ideas to get you started:
+[![TypeScript](https://img.shields.io/badge/typescript-161b22?style=for-the-badge&logo=typescript)](https://typescriptlang.org/) 
+[![JavaScript](https://img.shields.io/badge/javascript-161b22?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/ru/docs/Web/JavaScript) 
+[![PHP](https://img.shields.io/badge/php-161b22?style=for-the-badge&logo=php)](https://php.net/)
+[![Node.js](https://img.shields.io/badge/node_js-161b22?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
+[![Bun](https://img.shields.io/badge/bun-161b22?style=for-the-badge&logo=bun&logoColor=cb639d)](https://bun.sh/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks & Libraries
+
+[![Nuxt](https://img.shields.io/badge/nuxt-161b22?style=for-the-badge&logo=nuxtdotjs)](https://nuxt.com/) 
+[![Vue](https://img.shields.io/badge/vue-161b22?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/) 
+[![SvelteKit](https://img.shields.io/badge/sveltekit-161b22?style=for-the-badge&logo=svelte)](https://kit.svelte.dev/)
+[![Svelte](https://img.shields.io/badge/svelte-161b22?style=for-the-badge&logo=svelte)](https://svelte.dev/)
+[![Laravel](https://img.shields.io/badge/laravel-161b22?style=for-the-badge&logo=laravel)](https://laravel.com/) 
+[![Nest](https://img.shields.io/badge/nest-161b22?style=for-the-badge&logo=nestjs&logoColor=e0234e)](https://nestjs.com/) 
+[![Discord.js](https://img.shields.io/badge/discord.js-161b22?style=for-the-badge&logo=discord)](https://discordjs.dev/) 
+[![Necord](https://img.shields.io/badge/necord-161b22?style=for-the-badge&logo=naver&logoColor=e0234e)](https://necord.org/) 
+
+## Databases & Cloud Hosting
+
+[![Supabase](https://img.shields.io/badge/supabase-161b22?style=for-the-badge&logo=supabase)](https://supabase.com/) 
+[![PostgreSQL](https://img.shields.io/badge/postgresql-161b22?style=for-the-badge&logo=postgresql)](https://postgresql.org/) 
+[![MySQL](https://img.shields.io/badge/mysql-161b22?style=for-the-badge&logo=mysql)](https://mysql.com/) 
+[![Redis](https://img.shields.io/badge/redis-161b22?style=for-the-badge&logo=redis)](https://redis.io/) 
+[![GitHub pages](https://img.shields.io/badge/github_pages-161b22?style=for-the-badge&logo=github)](https://pages.github.com/) 
+[![Vercel](https://img.shields.io/badge/vercel-161b22?style=for-the-badge&logo=vercel)](https://vercel.com/) 
+
+## OS & Software
+
+[![Windows 11](https://img.shields.io/badge/windows_11-161b22?style=for-the-badge&logo=windows11&logoColor=0078D4)](https://microsoft.com/en-US/software-download/windows11) 
+[![Ubuntu](https://img.shields.io/badge/ubuntu_22.04-161b22?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/) 
+[![VS code](https://img.shields.io/badge/visual_studio_code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/) 
+[![Bitwarden](https://img.shields.io/badge/bitwarden-161b22?style=for-the-badge&logo=bitwarden&logoColor=175DDC)](https://bitwarden.com/) 
+[![Figma](https://img.shields.io/badge/figma-161b22?style=for-the-badge&logo=figma)](https://figma.com/) 
+[![Spark](https://img.shields.io/badge/spark-161b22?style=for-the-badge&logo=minutemailer&logoColor=0d86ff)](https://sparkmailapp.com/) 
+[![GitHub Desktop](https://img.shields.io/badge/github_desktop-161b22?style=for-the-badge&logo=github&logoColor=9f7be1)](https://desktop.github.com/) 
+
+## Social & Email
+
+[![Telegram](https://img.shields.io/badge/telegram-161b22?style=for-the-badge&logo=telegram)](https://t.me/ystneris)
+[![VKontakte](https://img.shields.io/badge/vkontakte-161b22?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/ystneris)
+[![Discord](https://img.shields.io/badge/discord-161b22?style=for-the-badge&logo=discord)](https://discordapp.com/users/199447143499431936)
+[![Gmail](https://img.shields.io/badge/gmail-161b22?style=for-the-badge&logo=gmail)](mailto:ystneris@gmail.com)
