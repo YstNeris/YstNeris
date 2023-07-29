@@ -38,7 +38,7 @@
 [![Spark](https://img.shields.io/badge/spark-16212d?style=for-the-badge&logo=minutemailer&logoColor=0d86ff)](https://sparkmailapp.com/) 
 [![GitHub Desktop](https://img.shields.io/badge/github_desktop-1d202b?style=for-the-badge&logo=github&logoColor=9f7be1)](https://desktop.github.com/) 
 
-## Social & Email
+## Contact with me
 
 [![Telegram](https://img.shields.io/badge/telegram-17222b?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ystneris)
 [![VKontakte](https://img.shields.io/badge/vkontakte-15202d?style=for-the-badge&logo=vk&logoColor=0077ff)](https://vk.com/ystneris)
