@@ -36,7 +36,6 @@
 [![Bitwarden](https://img.shields.io/badge/bitwarden-161f2b?style=for-the-badge&logo=bitwarden&logoColor=175DDC)](https://bitwarden.com) 
 [![Figma](https://img.shields.io/badge/figma-211e21?style=for-the-badge&logo=figma)](https://figma.com) 
 [![Spark](https://img.shields.io/badge/spark-16212d?style=for-the-badge&logo=minutemailer&logoColor=0d86ff)](https://sparkmailapp.com) 
-[![GitHub Desktop](https://img.shields.io/badge/github_desktop-1d202b?style=for-the-badge&logo=github&logoColor=9f7be1)](https://desktop.github.com) 
 
 ## Contact with me
 
