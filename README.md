@@ -1,7 +1,5 @@
 # Hi, I'm YstNeris! 👋
 
-<a href="" target="_blank"><img alt="" src=""><a/>
-
 ## Languages & platforms:
 
 <a href="https://typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-17202a?style=for-the-badge&logo=typescript"><a/>
